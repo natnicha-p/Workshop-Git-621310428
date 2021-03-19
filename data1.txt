@@ -1,1 +1,3 @@
 Name: Natnicha Phungphon
+Weight(kg.): 44.4
+Height(cm.): 167
